@@ -1,0 +1,7 @@
+{
+  "name": "Fiji-Tax-Book",
+  "description": "A simple, compliance-focused bookkeeping tool for Fiji small businesses to prepare for FRCS tax filings without complex accounting jargon.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
